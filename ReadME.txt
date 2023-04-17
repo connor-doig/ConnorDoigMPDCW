@@ -1,0 +1,1 @@
+The folder contains my mobile platform development coursework
